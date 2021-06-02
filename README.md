@@ -12,6 +12,7 @@
 
 # Project pitch desk
 [![PatrOwl Pitch Desk](https://github.com/Patrowl/PatrowlDocs/blob/master/images/misc/pitch-desk-frontpage.png)](https://docs.google.com/presentation/d/1bYUYzsGZBQJrq193rz98wIgjZam7y2vaBQ7C2uS0HaM/edit#slide=id.p)
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FEcoTrust1%2FPatrowlManager.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2FEcoTrust1%2FPatrowlManager?ref=badge_shield)
 
 # Try it now!
 To try PatrOwl, install it by reading the [Installation Guide](https://github.com/Patrowl/PatrowlDocs/blob/master/installation/installation-guide.md) and the [User Guide](https://github.com/Patrowl/PatrowlDocs/blob/master/installation/user-guide.md).
@@ -23,6 +24,9 @@ The PatrowlManager application is reachable using the embedded WEB interface or 
 
 # License
 PatrOwl is an open source and free software released under the [AGPL](https://github.com/Patrowl/PatrowlManager/blob/master/LICENSE) (Affero General Public License). We are committed to ensure that PatrOwl will remain a free and open source project on the long-run.
+
+
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FEcoTrust1%2FPatrowlManager.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2FEcoTrust1%2FPatrowlManager?ref=badge_large)
 
 # Updates
 Information, news and updates are regularly posted on [Patrowl.io Twitter account](https://twitter.com/patrowl_io) and on [the  blog](https://blog.patrowl.io/).
